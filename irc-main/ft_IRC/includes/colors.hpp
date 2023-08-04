@@ -1,0 +1,21 @@
+#pragma once
+// Text Colors
+#define Black "\033[30m"
+#define Red "\033[31m"
+#define Green "\033[32m"
+#define Yellow "\033[33m"
+#define Blue "\033[34m"
+#define Magenta "\033[35m"
+#define Cyan "\033[36m"
+#define White "\033[37m"
+// Background Colors
+#define BgBlack "\033[40m"
+#define BgRed "\033[41m"
+#define BgGreen "\033[42m"
+#define BgYellow "\033[43m"
+#define BgBlue "\033[44m"
+#define BgMagenta "\033[45m"
+#define BgCyan "\033[46m"
+#define BgWhite "\033[47m"
+// Reset color
+#define Reset "\033[0m"
